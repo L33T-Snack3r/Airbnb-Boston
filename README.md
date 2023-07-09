@@ -52,3 +52,6 @@ This code extends on Project_1_NLP_model.ipynb, taking in the other categorical 
 
 ## Findings
 The findings of this investigation are summarized here:
+
+## Licensing, Authors, Acknowledgements
+I would like to thank Airbnb for making this dataset public available. I would also like to thank Charles Rajendran, whose [code](https://medium.com/swlh/text-classification-using-the-bag-of-words-approach-with-nltk-and-scikit-learn-9a731e5c4e2f) I referenced to tokenize the review comments. 
