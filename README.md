@@ -30,4 +30,10 @@ There are 6 notebooks available here to showcase work related to the above quest
 ### Question 4
 - Project_1_complete_model.ipynb
 
+## Description of files
 
+### Project_1_numerical_features_analysis.ipynb
+This code was used to determine which numerical features were correlated with the feature review_scores_rating. Correlated features were determined using a correlation matrix.
+
+### Project_1_categorical_features_analysis.ipynb
+This code was used to determine which categorical features were related with review_scores_rating. Violin plots were used to visualize differences in distribution of review_scores_rating 
