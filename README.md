@@ -1,5 +1,5 @@
 # Airbnb-Boston
-This repository contains the Jupyter notebook files used in analysis of Boston Airbnb data (publicly available [here](https://www.kaggle.com/datasets/airbnb/boston)
+This repository contains the Jupyter notebook files used in analysis of Boston Airbnb data (publicly available [here](https://www.kaggle.com/datasets/airbnb/boston))
 
 ## Installations
 The Anaconda distribution is required to run the code in this repository. All necessary libraries should come pre-installed with Anaconda. 
