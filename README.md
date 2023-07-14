@@ -10,6 +10,7 @@ The necessary libraries to run all the notebooks are:
 - scipy
 - nltk
 - scikit-learn
+  
 All necessary libraries should come pre-installed with Anaconda, but t may be necessary to download the stopwords and punkt nltk packages.
 The version of python used for this investigation is Python 3.10.9. 
 
@@ -35,7 +36,7 @@ To gain a comprehensive understanding of this dataset and to answer all of the a
 
 ## Description of files
 
-### Project_1_numerical_features_analysis.ipynb
+### Project_1_num_cat_features_analysis.ipynb
 This code was used to conduct exploratory data analysis of the listings dataset and to determine which numerical features were correlated with the feature review_scores_rating. Correlated numerical features were identified using a correlation matrix, and violin plots were used to visualize differences in the distributions of review_scores_rating across categorical variables.
 
 ### Project_1_neighbourhood_analysis.ipynb
